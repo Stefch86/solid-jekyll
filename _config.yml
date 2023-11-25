@@ -1,4 +1,7 @@
 ### GENERAL SETTINGS ###
+# Exclude folders from the build
+exclude:
+  - _hidden
 
 # Site settings
 title: EASY DATA CONSULTING
