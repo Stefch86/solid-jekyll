@@ -189,7 +189,11 @@ a:focus {
 	-webkit-appearance: none;
 	font-weight: normal !important;
 }
-
+.dmbutton img {
+  /* Apply styles to the image */
+  display: inline-block; /* Make the image an inline-block element */
+  max-width: 100%; /* Ensure the image doesn't exceed its container width */
+}
 .mtb {
 	margin-top: 80px;
 	margin-bottom: 80px;
