@@ -287,17 +287,6 @@ a:focus {
 	font-size:13px;
 }
 
-.tpl6 .dmbutton {
-  /* Assuming this class is applied to the container of the image */
-  text-align: center;
-}
-
-.tpl6 .dmbutton img {
-  /* Apply styles to the image */
-  display: inline-block; /* Make the image an inline-block element */
-  max-width: 100%; /* Ensure the image doesn't exceed its container width */
-}
-
 .tpl6 .bg
 {
 	height:100%;
