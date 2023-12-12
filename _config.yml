@@ -55,14 +55,15 @@ tel: +33 628525778
 members:
   - name: Stephane Chaillie
     position: SENIOR BUSINESS INTELLIGENCE ANALYST
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: athering, handling, examining, and showcasing data – whether aiding routine business choices or catalyzing transformative global initiatives.
     img: team01.jpg
     social:
       - title: envelope #use for email address
         url: mailto:steph.chaillie@gmail.com
-      - title: twitter
-        url: http://twitter.com/handle
-
+      # - title: twitter
+      #   url: http://twitter.com/handle
+      - title: linkedin
+        url: https://www.linkedin.com/in/stephane-chaillie/
 # Clients information. Shown on Home and About pages.
 clients:
   - name: dribbble
