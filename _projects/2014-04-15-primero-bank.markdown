@@ -11,7 +11,7 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-Technologies: Excel, PowerPoint
+Technologies: "Excel, PowerPoint"
 
 ---
 #### Visualize data with Excel
