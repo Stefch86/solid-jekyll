@@ -12,7 +12,7 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-technologies: "Excel, PowerPoint"
+technologies: "SQL"
 
 ---
 #### Visualize data with Excel
