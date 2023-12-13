@@ -19,7 +19,9 @@ layout: default
             <div class="spacing"></div>
             <h4>Project Details</h4>
             <div class="hline"></div>
-            <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            <!-- <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>-->
+	    <p><b>Start Date:</b> {{ page.start date | date: "%b %-d, %Y" }}</p>
+	    <p><b>End Date:</b> {{ page.end date | date: "%b %-d, %Y" }}</p>
             <p><b>Author:</b> {{ page.author }}</p>
             <p><b>Categories:</b> {{ page.categories }}</p>
 	    <p><b>Technologies:</b> {{ page.technologies }}</p>
