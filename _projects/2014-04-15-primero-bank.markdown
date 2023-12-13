@@ -21,6 +21,7 @@ Identify common characteristics among customers who have left.
 - Deduce at least 5 analysis avenues regarding the reasons they left.
 - Identify among current clients the profiles that might leave.
 
+
 #### Assessed Skills
 - Analyzing user data by selecting an appropriate methodology
 - Presenting data to users using data visualization techniques
