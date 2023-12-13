@@ -24,8 +24,8 @@ Identify common characteristics among customers who have left.
 
 ---
 #### Assessed Skills
-- Analyzing user data by selecting an appropriate methodology
-- Presenting data to users using data visualization techniques
+- Load data into a database
+- Write simple SQL scripts to assist in business decision-making
 
 ---
 ####  Deliverables
