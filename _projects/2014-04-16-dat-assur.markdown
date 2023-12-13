@@ -24,6 +24,7 @@ Steps of the mission :
 - Load all the data into the SQLite database management system
 - Explore data types
 - Conduct analyses
+
 ---
 #### Assessed Skills
 - Load data into a database
