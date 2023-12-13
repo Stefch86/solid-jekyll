@@ -29,4 +29,4 @@ Identify common characteristics among customers who have left.
 
 ---
 ####  Deliverables
-For more details, you can check the [PDF presentation](/_pdf/Chaillie_Stephane_2_visualisations_042023.pdf)
+For more details, you can check the [PDF presentation](pdf/Chaillie_Stephane_2_visualisations_042023.pdf)
