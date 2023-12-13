@@ -1,8 +1,8 @@
 ---
 layout: project
 title:  "Primero Bank"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+date:   2023-03-07 to 2023-03-31
+author: Stéphane Chaillié
 categories:
 - project
 img: portfolio_10.jpg
@@ -11,20 +11,20 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-tagged: Flat, UI, Development
-client: Wonder Corp.
-website: http://blacktie.co
+Technologies: Excel, PowerPoint
+
 ---
-#### Visualisez des données avec Excel
-Bonjour, 
+#### Visualize data with Excel
+The bank is concerned as it is experiencing numerous customer departures. I was tasked with presenting a action plan to the marketing director of Primero Bank, to prevent further waves of customer attrition.
 
-Comme vous le savez, suite à une plainte d’un client, nous avons été sanctionnés par la CNIL d’une limitation temporaire des traitements. Nous devons donc nous assurer que les règles du RGPD sont parfaitement appliquées et intégrées dans nos processus pour demander la levée de cette sanction.
+Before establishing this action plan, it is crucial to understand why customers are leaving the bank. My role will be to rely on data to explain these departures. Your preliminary work will be crucial for my drafting of a relevant action plan.
 
-Voici les actions que je souhaite de votre part :
+Initially, I needed to analyze the data to:
 
-1. Émettre des recommandations sur les règles de gestion à mettre en place immédiatement sur les données du CRM pour être conforme au RGPD. 5 recommandations sur un document à part de type pdf de maximum 2 pages devraient suffire.
+Identify common characteristics among customers who have left.
+- Deduce at least 5 analysis avenues regarding the reasons they left.
+- Identify among current clients the profiles that might leave.
+- To document responses, you should complete this analysis report that I have partially filled out (carefully read my answers to questions 1 and 2). This report will serve as a basis for our discussion and validation of:
 
-2. Mettre à disposition de l’équipe de performance commerciale une extraction des données du CRM au format csv pour qu’ils puissent continuer à travailler. Par contre, attention, il faudra :
-
-#### Our Proposal
+#### Deliverables
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
