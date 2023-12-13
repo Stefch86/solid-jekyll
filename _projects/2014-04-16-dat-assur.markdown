@@ -1,12 +1,12 @@
 ---
 layout: project
-title:  "DAT ASSUR"
+title:  "DAT'ASSUR"
 Start Date:   2023-04-15
 End Date:   2023-05-02
 author: Stéphane Chaillié
 categories:
 - project
-img: portfolio_10.jpg
+img: portfolio_01.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
