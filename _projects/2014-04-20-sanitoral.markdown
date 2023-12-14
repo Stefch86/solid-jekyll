@@ -1,0 +1,35 @@
+---
+layout: project
+title:  "Sanitoral"
+Start Date:   2023-09-15
+End Date:   2023-09-30
+author: Stéphane Chaillié
+categories:
+- project
+img: portfolio_05.jpg
+thumb: thumb02.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+technologies: "PowerQuery, PowerBI"
+
+---
+#### Optimize the inventory management of a store by cleaning its data
+The use an Enterprise Resource Planning, known as ERP, which is not at all connected to their online sales site. The existing tools are quite makeshift, and under these conditions, inventory management is complex. Visibility in terms of online sales analysis is limited. While waiting for a more centralized solution, a reconciliation between the two databases, i.e., warehouse data and product and sales data, even manually, could be very useful.
+
+Steps for the mission:
+- Reconciled in Python two exports: an export from the ERP containing product references, their selling prices, and their stock status, and an export from a table in the online store containing information about the products marketed online (name, description, number of sales...)
+- Calculated the turnover per product, as well as the total turnover achieved online
+- Conductd an analysis on turnover variable to detect any possible outliers and createted a graphical representation
+
+---
+#### Assessed Skills
+- Present a dashboard to users for visualizing the results
+- Configure a dashboard according to user needs
+- Identify the needs of a project to create a tailored dashboard
+
+---
+####  Deliverables
+For more details, you can check:
+- [Results report](https://stefch86.github.io/solid-jekyll-BIA/assets/Chaillie_Stephane_3_presentation_102023.pdf){:target="_blank"}
