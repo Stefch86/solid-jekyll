@@ -33,5 +33,6 @@ Steps of the mission:
 
 ---
 ####  Deliverables
-See below screeshots of the dahsboard:
-
+See below for more details:
+- [Results Jupyter Notebook](https://colab.research.google.com/drive/1k_MeNSPgZkf__rft4iA5EslFDQrL6_06?usp=sharing){:target="_blank"}
+- [Results Jupyter Notebook](https://colab.research.google.com/drive/1k_MeNSPgZkf__rft4iA5EslFDQrL6_06?usp=sharing){:target="_blank"}
