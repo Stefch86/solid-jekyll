@@ -33,4 +33,6 @@ Here are the actions that was done:
 
 ---
 ####  Deliverables
-For more details, you can check the [PDF presentation](https://stefch86.github.io/solid-jekyll-BIA/assets/Chaillie_Stephane_2_visualisations_042023.pdf){:target="_blank"}
+For more details, you can check:
+- [GDPR recommandations](https://stefch86.github.io/solid-jekyll-BIA/assets/Chaillie_Stephane_1_Recommandations_062023.pdf){:target="_blank"}
+- [Data processing report](https://stefch86.github.io/solid-jekyll-BIA/assets/Chaillie_Stephane_3_rapport_062023.pdf){:target="_blank"}
