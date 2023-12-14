@@ -1,8 +1,8 @@
 ---
 layout: project
 title:  "DEV IMMEDIAT"
-Start Date:   2023-03-07
-End Date:   2023-03-31
+Start Date:   2023-05-15
+End Date:   2023-06-16
 author: Stéphane Chaillié
 categories:
 - project
@@ -16,16 +16,20 @@ technologies: "SQL"
 
 ---
 #### Collect data in compliance with GDPR standards
-The bank is concerned as it is experiencing numerous customer departures. I was tasked with presenting a action plan to the marketing director of Primero Bank, to prevent further waves of customer attrition. Before establishing this action plan, it is crucial to understand why customers are leaving the bank. My role was to rely on data to explain these departures. Initially, I needed to analyze the data to:
+Dev'Immediat, a subsidiary of the automobile insurance, processes received applications for car insurance claims, and I conducted data collection while adhering to the General Data Protection Regulation (GDPR).
 
-Identify common characteristics among customers who have left.
-- Deduce at least 5 analysis avenues regarding the reasons they left.
-- Identify among current clients the profiles that might leave.
+Here are the actions that was done:
+
+- Provide 5 recommendations on the management rules to be immediately implemented on CRM data to comply with GDPR.
+- Make available to the sales performance team an extraction of CRM data in CSV format with specifications: Fully anonymize CRM data to comply with the sanction 
+  and no longer process personal data.
+- Document all the steps of this operation in a report demonstrating compliance with quality processes in data collection, preparation, and recommendation writing
 
 ---
 #### Assessed Skills
-- Analyzing user data by selecting an appropriate methodology
-- Presenting data to users using data visualization techniques
+- Collect data while applying protection standards
+- Document and transfer data to a preparation area while adhering to standards
+- Prepare data while ensuring compliance with quality processes
 
 ---
 ####  Deliverables
