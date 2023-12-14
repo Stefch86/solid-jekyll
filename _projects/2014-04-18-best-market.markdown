@@ -15,7 +15,7 @@ carousel:
 technologies: "SQL"
 
 ---
-#### Visualize data with Excel
+#### Query a database with SQL to track customer satisfaction
 BestMarket, a company in the retail industry. The company aims to use customer return and feedback data to enhance the quality of its store network.
 
 
