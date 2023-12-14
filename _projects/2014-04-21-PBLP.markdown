@@ -1,8 +1,8 @@
 ---
 layout: project
 title:  "Les Plus Beaux Logis de Paris"
-Start Date:   2023-09-15
-End Date:   2023-09-30
+Start Date:   2023-10-01
+End Date:   2023-11-15
 author: Stéphane Chaillié
 categories:
 - project
@@ -12,10 +12,10 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-technologies: "Python, Jupither Notebook"
+technologies: "Python, Jupyter Notebook, PowerPoint"
 
 ---
-#### Create a dynamic dashboard with Power BI to visualize project progress
+#### Analyze the evolution of real estate prices with Python
 Sanitoal is an international company that manufactures and markets oral care products. The department of the Project Management Office has to deal with a lot of data but doesn't know how to leverage it. There is a need to have a dahsboard to make project data strategically accessible to directors in a visual manner.
 
 Specifications of KPI for the dashboard:
@@ -25,9 +25,11 @@ Specifications of KPI for the dashboard:
 
 ---
 #### Assessed Skills
-- Present a dashboard to users for visualizing the results
-- Configure a dashboard according to user needs
-- Identify the needs of a project to create a tailored dashboard
+- Convince the client of the relevance of the results by justifying the methodology followed
+- Perform a correlation analysis
+- Conduct a multivariate analysis
+- Present a predictive analysis
+- Conduct linear regression to make estimates or predictions
 
 ---
 ####  Deliverables
