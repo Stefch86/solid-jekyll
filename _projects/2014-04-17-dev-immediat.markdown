@@ -16,14 +16,14 @@ technologies: "SQL, PowerQuery"
 
 ---
 #### Collect data in compliance with GDPR standards
-Dev'Immediat, a subsidiary of the automobile insurance, processes received applications for car insurance claims, and I conducted data collection while adhering to the General Data Protection Regulation (GDPR).
+Dev'Immediat, a subsidiary of the automobile insurance, recieved a customer complaint. They were sanctioned by the CNIL with a temporary limitation on data processing. Therefore, they must ensure that GDPR rules are perfectly applied and integrated into their processes to request the lifting of this sanction received applications for car insurance claims.
 
 Here are the actions that was done:
 
-- Provide 5 recommendations on the management rules to be immediately implemented on CRM data to comply with GDPR.
-- Make available to the sales performance team an extraction of CRM data in CSV format with specifications: Fully anonymize CRM data to comply with the sanction 
+- Provided 5 recommendations on the management rules to be immediately implemented on CRM data to comply with GDPR.
+- Made available to the sales performance team an extraction of CRM data in CSV format with specifications: Fully anonymize CRM data to comply with the sanction 
   and no longer process personal data.
-- Document all the steps of this operation in a report demonstrating compliance with quality processes in data collection, preparation, and recommendation writing
+- Documented all the steps of this operation in a report demonstrating compliance with quality processes in data collection, preparation, and recommendation writing
 
 ---
 #### Assessed Skills
