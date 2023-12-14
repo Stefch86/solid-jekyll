@@ -33,3 +33,6 @@ KPI for the dashboard:
 ####  Deliverables
 See below screeshots of the dahsboard:
 ![Image Alt Text]({{ site.baseurl }}/assets/powerbi.jpg)
+![Image Alt Text]({{ site.baseurl }}/assets/powerbi2.jpg)
+![Image Alt Text]({{ site.baseurl }}/assets/powerbi3.jpg)
+![Image Alt Text]({{ site.baseurl }}/assets/powerbi4.jpg)
