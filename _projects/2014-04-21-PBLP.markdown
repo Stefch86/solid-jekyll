@@ -16,12 +16,12 @@ technologies: "Python, Jupyter Notebook, PowerPoint"
 
 ---
 #### Analyze the evolution of real estate prices with Python
-Sanitoal is an international company that manufactures and markets oral care products. The department of the Project Management Office has to deal with a lot of data but doesn't know how to leverage it. There is a need to have a dahsboard to make project data strategically accessible to directors in a visual manner.
-
-Specifications of KPI for the dashboard:
-- Track the progress of projects
-- Identify delays
-- Control performance so that the team can take appropriate actions
+PBLP is a family-owned real estate management company and has today about one thousand assets. They are going through a crisis and they need to sell assets to maintain their activty.
+Steps of the mission:
+- Conducted an analysis of historical data from the Parisian real estate market
+- Established training for the linear regression algorithm on this data
+- Established a prediction of the future valuation of the company's portfolio and a conclusion on the comparison between the 'individual' and 'corporate' segments
+- Unsupervised classification of real estate assets in the company's portfolio and verification of results compared to the team ranking
 
 ---
 #### Assessed Skills
