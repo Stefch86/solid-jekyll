@@ -31,7 +31,7 @@ Specifications of KPI for the dashboard:
 
 ---
 ####  Deliverables
-See below screeshots of the dahsboard:
+See below screenshots of the dashboard:
 ![Image Alt Text]({{ site.baseurl }}/assets/powerbi.jpg)
 ![Image Alt Text]({{ site.baseurl }}/assets/powerbi2.jpg)
 ![Image Alt Text]({{ site.baseurl }}/assets/powerbi3.jpg)
