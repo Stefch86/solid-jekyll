@@ -31,5 +31,5 @@ KPI for the dashboard:
 
 ---
 ####  Deliverables
-For more details, you can check:
-- [Results report](https://stefch86.github.io/solid-jekyll-BIA/assets/Chaillie_Stephane_3_presentation_102023.pdf){:target="_blank"}
+See below screeshots of the dahsboard:
+![Image Alt Text]({{ site.baseurl }}/assets/powerbi.jpg)
