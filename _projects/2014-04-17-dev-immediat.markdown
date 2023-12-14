@@ -12,7 +12,7 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-technologies: "SQL"
+technologies: "SQL, PowerQuery"
 
 ---
 #### Collect data in compliance with GDPR standards
