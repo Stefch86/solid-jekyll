@@ -15,13 +15,13 @@ carousel:
 technologies: "PowerQuery, PowerBI"
 
 ---
-#### Optimize the inventory management of a store by cleaning its data
-The use an Enterprise Resource Planning, known as ERP, which is not at all connected to their online sales site. The existing tools are quite makeshift, and under these conditions, inventory management is complex. Visibility in terms of online sales analysis is limited. While waiting for a more centralized solution, a reconciliation between the two databases, i.e., warehouse data and product and sales data, even manually, could be very useful.
+#### Create a dynamic dashboard with Power BI to visualize project progress
+Sanitoal is an international company that manufactures and markets oral care products.
 
-Steps for the mission:
-- Reconciled in Python two exports: an export from the ERP containing product references, their selling prices, and their stock status, and an export from a table in the online store containing information about the products marketed online (name, description, number of sales...)
-- Calculated the turnover per product, as well as the total turnover achieved online
-- Conductd an analysis on turnover variable to detect any possible outliers and createted a graphical representation
+KPI for the dashboard:
+- Track the progress of projects
+- Identify delays
+- Control performance so that the team can take appropriate actions
 
 ---
 #### Assessed Skills
