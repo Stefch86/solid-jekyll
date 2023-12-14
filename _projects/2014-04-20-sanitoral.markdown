@@ -18,7 +18,7 @@ technologies: "PowerQuery, PowerBI"
 #### Create a dynamic dashboard with Power BI to visualize project progress
 Sanitoal is an international company that manufactures and markets oral care products. The department of the Project Management Office has to deal with a lot of data but doesn't know how to leverage it. There is a need to have a dahsboard to make project data strategically accessible to directors in a visual manner.
 
-SpecfificationsKPI for the dashboard:
+Specifications of KPI for the dashboard:
 - Track the progress of projects
 - Identify delays
 - Control performance so that the team can take appropriate actions
