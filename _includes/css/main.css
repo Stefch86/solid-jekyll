@@ -463,26 +463,25 @@ a.anchor{
     visibility: hidden;
 }
 /* timeline */
+
 body {
-  font-family: Arial, sans-serif;
-}
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .timeline {
+    display: flex;
+    overflow-x: auto;
+    padding: 20px;
+    margin: 20px 0;
+  }
 
-.timeline {
-  display: flex;
-  flex-direction: row;
-  overflow-x: auto; /* Enable horizontal scrolling if timeline overflows */
-}
-
-.event {
-  width: 200px; /* Adjust the width of each event as needed */
-  padding: 20px;
-  margin: 10px;
-  border: 1px solid #ccc;
-  background-color: #f9f9f9;
-}
-
-.date {
-  font-weight: bold;
-}
-
+  .event {
+    width: 200px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    padding: 10px;
+  }
 /* Add more styles as needed for better appearance */
