@@ -464,10 +464,17 @@ a.anchor{
 }
 /* timeline */
 
-body {
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Horizontal Timeline</title>
+<style>
+  body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
   }
   
   .timeline {
@@ -475,6 +482,7 @@ body {
     overflow-x: auto;
     padding: 20px;
     margin: 20px 0;
+    max-width: 100%;
   }
 
   .event {
@@ -484,4 +492,6 @@ body {
     margin-right: 10px;
     padding: 10px;
   }
+</style>
+</head>
 /* Add more styles as needed for better appearance */
